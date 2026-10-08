@@ -1,0 +1,6 @@
+node_modules/
+preview.html
+shot-*.png
+.clasp.json
+.clasprc.json
+appsscript.json.bak
